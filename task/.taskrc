@@ -1,0 +1,7 @@
+data.location=/Users/nkintc/.tasks
+taskd.certificate=/Users/nkintc/.tasks/private.cert
+taskd.key=/Users/nkintc/.tasks/private.key
+taskd.ca=/Users/nkintc/.tasks/ca.cert.pem
+taskd.server=taskwarrior.inthe.am:53589
+taskd.credentials=inthe_am/cnkinthorn/0e1ff9e6-6903-4994-bda5-b4596da12934
+taskd.trust=ignore hostname
