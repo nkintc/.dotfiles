@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Copy or Move Last Download to Here</name>
+  <version>3.0</version>
+  <bundle>com.bhishanpdl.copylastdownloadtohere</bundle>
+  <updated>1561857030</updated>
+  <file>copy_or_move_last_downloads_to_here.alfredworkflow</file>
+</workflow>

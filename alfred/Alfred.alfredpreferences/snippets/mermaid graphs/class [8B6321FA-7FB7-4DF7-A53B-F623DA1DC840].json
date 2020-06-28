@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```mermaid\nclassDiagram\n      Animal <|-- Duck\n      Animal <|-- Fish\n      Animal <|-- Zebra\n      Animal : +int age\n      Animal : +String gender\n      Animal: +isMammal()\n      Animal: +mate()\n      class Duck{\n          +String beakColor\n          +swim()\n          +quack()\n      }\n      class Fish{\n          -int sizeInFeet\n          -canEat()\n      }\n      class Zebra{\n          +bool is_wild\n          +run()\n      }\n```",
+    "uid" : "8B6321FA-7FB7-4DF7-A53B-F623DA1DC840",
+    "name" : "class",
+    "keyword" : "class"
+  }
+}

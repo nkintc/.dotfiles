@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"C Improved",
+		"C++ Snippets",
+		"EasyClangComplete",
+		"LaTeXSmartQuotes",
+		"LaTeXTools",
+		"MarkdownEditing",
+		"Matlab Completions",
+		"NeoVintageous",
+		"Package Control",
+		"Predawn",
+		"SublimeREPL",
+		"SyntaxFold",
+		"ToggleNeoVintageous"
+	],
+	"repositories":
+	[
+		"https://github.com/tushortz/Matlab-Completions"
+	]
+}

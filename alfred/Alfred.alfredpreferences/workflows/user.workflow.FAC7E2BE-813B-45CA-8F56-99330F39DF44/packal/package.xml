@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<workflow>
+  <name>Alfred Kat</name>
+  <version>3.0.0</version>
+  <bundle>info.sleeplessmind.kat</bundle>
+  <updated>1560066391</updated>
+  <file>kat.alfredworkflow</file>
+</workflow>

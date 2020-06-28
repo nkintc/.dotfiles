@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```mermaid\ngraph TB %% Comment {TB LR}\n    c1-->a2\n    subgraph one\n    a1-->a2\n    end\n    subgraph two\n    b1-->b2\n    end\n    subgraph three\n    c1-->c2\n    end",
+    "uid" : "C7481D51-E979-4942-8B20-B95691710D8A",
+    "name" : "flowchart",
+    "keyword" : "flow"
+  }
+}

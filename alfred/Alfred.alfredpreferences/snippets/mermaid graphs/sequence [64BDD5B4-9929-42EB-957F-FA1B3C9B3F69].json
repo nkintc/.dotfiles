@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```mermaid\nsequenceDiagram\n    participant John\n    participant Alice\n    Alice->>John: Hello John, how are you?\n    John-->>Alice: Great!\t\t",
+    "uid" : "64BDD5B4-9929-42EB-957F-FA1B3C9B3F69",
+    "name" : "sequence",
+    "keyword" : "seq"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```mermaid\ngraph TB %% comment  {TB LR}\n    A[Hard edge] -->|Link text| B(Round edge)\n    B --> C{Decision}\n    C -->|One| D[Result one]\n    C -->|Two| E[Result two]\n\nclassDef head fill:#f9f,stroke:#333,stroke-width:4px %% use constructor notation:::head\n",
+    "uid" : "FEDB8E98-C881-4D14-8BA7-1B1729037640",
+    "name" : "graph",
+    "keyword" : "graph"
+  }
+}

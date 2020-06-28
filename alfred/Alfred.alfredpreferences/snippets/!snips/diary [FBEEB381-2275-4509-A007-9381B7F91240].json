@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "# Diary: {date}\n\n- Time: {time}\n- Notes: \n- Summary: \n  - ",
+    "uid" : "FBEEB381-2275-4509-A007-9381B7F91240",
+    "name" : "diary",
+    "keyword" : "diary"
+  }
+}

@@ -1,0 +1,1 @@
+~/Downloads/* /Users/poudel/tmp/untitled folder/

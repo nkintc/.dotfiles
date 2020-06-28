@@ -1,0 +1,8 @@
+{
+  "alfredsnippet" : {
+    "snippet" : "```mermaid\npie\n    title Pie Chart\n    \"Dogs\" : 386\n    \"Cats\" : 85\n    \"Rats\" : 150 \n```",
+    "uid" : "41E8030A-35AE-4C01-A6B7-DD6A06FB514F",
+    "name" : "pie",
+    "keyword" : "pie"
+  }
+}
